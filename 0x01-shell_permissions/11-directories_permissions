@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir -m 755 hello
+mkdir 755 hello
